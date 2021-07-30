@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Code\menudongQLSV\menudongQLSV\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code\menudongQLSV\menudongQLSV\vemenu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code\menudongQLSV\menudongQLSV\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Code\menudongQLSV\menudongQLSV\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Code\menudongQLSV\menudongQLSV\vemenu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code\menudongQLSV\menudongQLSV\xuli1.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code\menudongQLSV\menudongQLSV\loadfile1.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code\menudongQLSV\menudongQLSV\loadfile1.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  menudongQLSV.vcxproj -> D:\Code\menudongQLSV\Debug\menudongQLSV.exe
